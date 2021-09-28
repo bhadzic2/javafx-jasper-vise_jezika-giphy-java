@@ -1,0 +1,10 @@
+.poljeIspravno {
+   -fx-control-inner-background: greenyellow;
+}
+.poljeNijeIspravno {
+   -fx-control-inner-background: lightpink;
+}
+#slicica {
+    -fx-graphic: url("/img/imageAbout.png");
+}
+
